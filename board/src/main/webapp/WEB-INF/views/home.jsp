@@ -9,6 +9,7 @@
 <h1>
 	Hello world!  
 </h1>
+<p><a href="/board/list">게시물 목록</a></p>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
